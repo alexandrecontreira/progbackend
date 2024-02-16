@@ -31,7 +31,7 @@ Para inserir um bloco de código usamos o sinal de crase ( ` ) três vezes.
 </html>
 ```
 ## Lista de tarefas
-- [X] Aprender a sintaxe Mardown
+- [X] Aprender a sintaxe Markdown
 - [ ] Aprender Github
 - [ ] Aprender Gitbash
 
@@ -102,6 +102,10 @@ Você pode criar alguns recursos coloridos no momento da renderização. Badges 
 ( get some badges [here](https://shields.io/) )
 
 ## Trechos de código
+
+![image](https://github.com/alexandrecontreira/progbackend/assets/77118607/693f16ab-5497-42ef-b38e-cc6e0209e91b)
+
+
 ``js example-good
 const greeting = "Sou um bom exemplo";
 ``
@@ -109,6 +113,21 @@ const greeting = "Sou um bom exemplo";
 `js example-bad
 const greeting ="Eu sou um mau exemplo";
 `
+## Código (Code Highlight)
+Há dois modos de adicionar trechos de código ao Markdown:
+
+Código em linha (inline): adicione um acento grave ˋ no início e no final do código.
+Múltiplas linhas de código: envolva as linhas de código com três acentos graves ˋˋˋ ou três tils ~~~.
+
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~~
+~~~php
+Esta é uma linha de código em PHP.
+~~~~
+~~~html
+Esta é uma linha de código em HTML.
+~~~
 
 
 ## Referências
