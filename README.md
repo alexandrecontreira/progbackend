@@ -100,7 +100,7 @@ Você pode criar alguns recursos coloridos no momento da renderização. Badges 
 - Github - [![Github](http://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/)
 - Phyton <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
-( get some badges [here](https://shields.io/) )
+( get some badges [here](https://github.com/Ileriayo/markdown-badges) )
 
 ## Trechos de código
 
