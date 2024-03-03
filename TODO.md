@@ -14,10 +14,10 @@
   $ git config --global user.name "Emma Paris"
   $ git config --global user.email "eparis@atlassian.com"
 ```
-# Instalar o Git no Linux
+## Instalar o Git no Linux
 
-## Debian/Ubuntu (apt-get)
-## Pacotes do Git estão disponíveis via apt:
+### Debian/Ubuntu (apt-get)
+### Pacotes do Git estão disponíveis via apt:
 
   1. Pelo shell, instale o Git usando apt-get:
 ```
@@ -38,7 +38,7 @@
 ````
 
 
-# Referncias:
+# Referências:
 https://www.atlassian.com/br/git/tutorials/install-git <br>
 2 - Criar seu repositorio local;
  
